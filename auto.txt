@@ -3,4 +3,4 @@ echo commit %i %time% >> auto.txt
 git add auto.txt
 git commit -m "auto commit %i"
 )
-git push
+git pushcommit 1  5:54:27.19 
